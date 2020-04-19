@@ -55,7 +55,10 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # next.js build output
 .next
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
